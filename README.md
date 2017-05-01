@@ -35,17 +35,17 @@
 ~~~
 | 아두이노 나노  | LED |
 | :------------: | :-----------: |
-|   GND       |   GND       |
-|   13       |   left 5       |
-|    12        |   left 4       |
-|   11         |   left 3        |
-|    10        |   left 2        |
+|   GND       |   GND         |
+|   13        |   left 5       |
+|    12       |   left 4       |
+|   11        |   left 3        |
+|    10       |   left 2        |
 |   9         |   left  1        |
 |    8        |   right 1        |
 |    7        |   right w        |
-|    6         |   red(RGB LED)  |
+|    6        |   red(RGB LED)  |
 |    5        |   blue(RGB LED)   |
-|    4         |   right 3        |
+|    4        |   right 3        |
 |    3        |   right 4        |
 |    2        |   right 3        |
   
