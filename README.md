@@ -25,22 +25,28 @@
 ~~~   
 | 아두이노 나노  | GY-86 |
 | :------------: | :-----------: |
-| vcc           |   vcc       |
-| gnd           |   gnd       |
-| sda           |   A4        |
-| scl           |   A5        |
+| VCC           |   VCC       |
+| GND           |   GND       |
+| SDA           |   A4        |
+| SCL           |   A5        |
 
 ~~~
 - 아두이노 나노와 가속도 센서 연결    
 ~~~
-| 아두이노 나노  | GY-521 |
+| 아두이노 나노  | LED |
 | :------------: | :-----------: |
-| 3           |   red 1       |
-|  2          |   5V       |
-|   5         |   green 1        |
-|    6        |   red 2        |
-|   9         |   green 2        |
-|    10        |   red 3        |
-|    11        |   green 3        |
+| GND           |   GND       |
+| 13           |   left 5       |
+|  12          |   left 4       |
+|   11         |   left 3        |
+|    10        |   left 2        |
+|   9         |   left  1        |
+|    8        |   right 1        |
+|    7        |   right w        |
+|   6         |   red(RGB LED)  |
+|    5        |   blue(RGB LED)   |
+|   4         |   right 3        |
+|    3        |   right 4        |
+|    2        |   right 3        |
   
  - 아두이노 나노에 5V핀이 하나뿐이어서 2번 핀을 항상 5V가 출력되도록 설정했습니다. 
