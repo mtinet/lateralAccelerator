@@ -3,8 +3,8 @@
 
  
 ***
-     아두이노, GY-86, Common Cathode RGB LED,  일반 LED를 사용한 횡G 측정용 키트입니다.  
-     (GY-86 : MPU6050 + HMC5883L(지자기:Magneto) + MS5611(기압계:Barometer))
+      아두이노, GY-86, Common Cathode RGB LED,  일반 LED를 사용한 횡G 측정용 키트입니다.  
+      (GY-86 : MPU6050 + HMC5883L(지자기:Magneto) + MS5611(기압계:Barometer))
 ***
 
 1. 자전거와 자동차, 오토바이 등에 활용이 가능할 것 같구요. 차량의 종류에 따라서 감도 조정을 하면 됩니다. 자동차의 실내에서 가속도나 감속도를 파악하는 용도로 사용해도 될 것 같군요. 
