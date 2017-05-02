@@ -29,7 +29,7 @@
 - 아두이노 나노와 가속도 센서 연결  
 ~~~   
 
-| 아두이노 나노  | GY-86|
+| 아두이노 나노  | GY-86          |
 | :------------: | :-----------: |
 | VCC           |   VCC       |
 | GND           |   GND       |
@@ -41,9 +41,9 @@
 (아두이노 나노에 5V핀이 하나뿐이어서 2번 핀을 항상 5V가 출력되도록 설정했습니다.)  
 ~~~  
 
-| 아두이노 나노  | LED |
-| :------------: | :-----------: |
-|   GND       |   GND         |
+| 아두이노 나노  | LED           |
+| :-----------: | :-----------: |
+|   GND       |   GND           |
 |   13        |   left 5       |
 |    12       |   left 4       |
 |   11        |   left 3        |
@@ -51,7 +51,7 @@
 |   9         |   left  1        |
 |    8        |   right 1        |
 |    7        |   right 2        |
-|    6        |   red(RGB LED)  |
+|    6        |   red(RGB LED)   |
 |    5        |   blue(RGB LED)   |
 |    4        |   right 3        |
 |    3        |   right 4        |
@@ -61,3 +61,6 @@
 - [일반버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAccelerator.ino)은 가속도에 따라 LED가 계속 켜져있습니다.  
 - [플래시버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAcceleratorFlash.ino)은 가속도에 따라 LED 번쩍거립니다.  
 - [Non Serial Print 버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAcceleratorNonSerial.ino)은 Serial Print를 하지 않아 시스템 처리속도가 좀 더 예민합니다.  
+
+
+
