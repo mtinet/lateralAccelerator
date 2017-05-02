@@ -17,11 +17,11 @@
  
 - 가속과 감속을 감지하여 가운데의 RGB LED가 가속 시에는 파란색으로 감속 시에는 빨간색으로 바뀝니다.  
 
-#### 테스트 영상 링크(사진을클릭하세요.)  
+### 테스트 영상 링크(사진을클릭하세요.)  
 
 [![테스트 영상 링크](https://raw.githubusercontent.com/mtinet/lateralAccelerator/master/20170502_022741.jpg)](https://youtu.be/YjH0g60Ffdg)  
 
-#### 핀배치  
+### 핀배치  
  - 회로도  
  ![](https://github.com/mtinet/lateralAccelerator/blob/master/circuit.png?raw=true)  
  
@@ -57,7 +57,7 @@
 |    3        |   right 4        |
 |    2        |   right 5        |
   
-#### 안내  
+### 안내  
 - [일반버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAccelerator.ino)은 가속도에 따라 LED가 계속 켜져있습니다.  
 - [플래시버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAcceleratorFlash.ino)은 가속도에 따라 LED 번쩍거립니다.  
 - [Non Serial Print 버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAcceleratorNonSerial.ino)은 Serial Print를 하지 않아 시스템 처리속도가 좀 더 예민합니다.  
