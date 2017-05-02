@@ -18,7 +18,14 @@
 
 4. 테스트 영상 링크(사진을클릭하세요.)
 
-[![테스트 영상 링크](https://raw.githubusercontent.com/mtinet/lateralAccelerator/master/20170502_022741.jpg)](https://youtu.be/YjH0g60Ffdg)
+[![테스트 영상 링크](https://raw.githubusercontent.com/mtinet/lateralAccelerator/master/20170502_022741.jpg)](https://youtu.be/YjH0g60Ffdg)  
+
+| 아두이노 나노  | GY-86|
+| :------------: | :-----------: |
+| VCC           |   VCC       |
+| GND           |   GND       |
+| SDA           |   A4        |
+| SCL           |   A5        |
 
 5. 핀배치
  - 회로도  
