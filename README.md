@@ -42,7 +42,7 @@
 |    10       |   left 2        |
 |   9         |   left  1        |
 |    8        |   right 1        |
-|    7        |   right w        |
+|    7        |   right 2        |
 |    6        |   red(RGB LED)  |
 |    5        |   blue(RGB LED)   |
 |    4        |   right 3        |
@@ -50,7 +50,8 @@
 |    2        |   right 3        |
   
  - 아두이노 나노에 5V핀이 하나뿐이어서 2번 핀을 항상 5V가 출력되도록 설정했습니다. 
- - ![회로도](https://github.com/mtinet/lateralAccelerator/blob/master/circuit.png?raw=true)
+ - 회로도  
+ ![](https://github.com/mtinet/lateralAccelerator/blob/master/circuit.png?raw=true)  
 5. 안내
 - [일반버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAccelerator.ino)은 가속도에 따라 LED가 계속 켜져있습니다.  
 - [플래시버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAcceleratorFlash.ino)은 가속도에 따라 LED 번쩍거립니다.  
