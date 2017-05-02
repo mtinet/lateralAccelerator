@@ -3,7 +3,7 @@
 
  
 ***
-     아두이노, GY-86, Common Cathode RGB LED,  일반 LED를 사용한 횡G 측정용 키트입니다. 
+     아두이노, GY-86, Common Cathode RGB LED,  일반 LED를 사용한 횡G 측정용 키트입니다.  
      (GY-86 : MPU6050 + HMC5883L(지자기:Magneto) + MS5611(기압계:Barometer))
 ***
 
