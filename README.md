@@ -19,7 +19,7 @@
 
 [![테스트 영상 링크](https://raw.githubusercontent.com/mtinet/lateralAccelerator/master/20170502_022741.jpg)](https://youtu.be/YjH0g60Ffdg)
 
-* 핀배치는 다음과 같습니다. 
+5. 핀배치
 ~~~
 - 아두이노 나노와 가속도 센서 연결
 ~~~   
@@ -50,10 +50,8 @@
 |    2        |   right 3        |
   
  - 아두이노 나노에 5V핀이 하나뿐이어서 2번 핀을 항상 5V가 출력되도록 설정했습니다. 
-
-5. 회로도
-  [!](https://github.com/mtinet/lateralAccelerator/blob/master/circuit.png?raw=true)
-6. 안내
+ - [회로도](!https://github.com/mtinet/lateralAccelerator/blob/master/circuit.png?raw=true)
+5. 안내
 - [일반버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAccelerator.ino)은 가속도에 따라 LED가 계속 켜져있습니다.  
 - [플래시버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAcceleratorFlash.ino)은 가속도에 따라 LED 번쩍거립니다.  
 - [Non Serial Print 버전](https://github.com/mtinet/lateralAccelerator/blob/master/lateralAcceleratorNonSerial.ino)은 Serial Print를 하지 않아 시스템 처리속도가 좀 더 예민합니다.  
