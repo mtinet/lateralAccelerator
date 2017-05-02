@@ -19,7 +19,6 @@
 
 ### 테스트 영상 링크  
   (사진을클릭하세요.)  
-
 [![테스트 영상 링크](https://raw.githubusercontent.com/mtinet/lateralAccelerator/master/20170502_022741.jpg)](https://youtu.be/YjH0g60Ffdg)  
 
 ### 핀배치  
