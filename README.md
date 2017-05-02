@@ -15,7 +15,7 @@
  - 중력가속도 1을 기준으로 같은값으로 왼쪽이나 오른쪽으로 기울이면 기울기에 따라 같은 갯수의 붉은 LED가 점멸합니다.
  - 가속과 감속을 감지하여 가운데의 RGB LED가 가속 시에는 파란색으로 감속 시에는 빨간색으로 바뀝니다.
 
-4. 테스트
+4. 테스트 영상 링크(사진을클릭하세요.)
 
 [![테스트 영상 링크](https://raw.githubusercontent.com/mtinet/lateralAccelerator/master/20170502_022741.jpg)](https://youtu.be/YjH0g60Ffdg)
 
